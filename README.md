@@ -1,19 +1,20 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## CoderFactory Academy Student Job Board
 
-Things you may want to cover:
 
 * Ruby version
+- Rails 5.0.0
+- Ruby 2.3.1
 
-* System dependencies
+* Gems Used:
+- Bootstrap-Sass
+- Simple Form
 
-* Configuration
+* Database Used:
+- PostgreSQL
 
-* Database creation
-
-* Database initialization
+<!-- * Database initialization
 
 * How to run the test suite
 
@@ -22,4 +23,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# cfa-job-board
+# cfa-job-board -->
