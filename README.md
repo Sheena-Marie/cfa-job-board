@@ -3,15 +3,15 @@
 ## CoderFactory Academy Student Job Board
 
 
-* Ruby version
+### Ruby version
 - Rails 5.0.0
 - Ruby 2.3.1
 
-* Gems Used:
+### Gems Used:
 - Bootstrap-Sass
 - Simple Form
 
-* Database Used:
+### Database Used:
 - PostgreSQL
 
 <!-- * Database initialization
