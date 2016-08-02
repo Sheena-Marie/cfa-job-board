@@ -3,6 +3,10 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.0'
+
+# Changed the database from the default sqlite3 when I created the app to postgresql.
+# DON'T FORGET TO START THE POSTGRESQL SERVER BEFORE YOU RUN LOCALHOST:3000!!!
+
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
 # Use Puma as the app server
@@ -15,6 +19,10 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
+
+# My included gems
+gem 'boostrap-sass'
+gem 'simple_form'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'

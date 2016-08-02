@@ -9,6 +9,16 @@
   </head>
 
   <body>
-    <%= yield %>
+
+  <!-- Wrapping the 'yield' in a div so that the whole thing is mobile repsonsive. -->
+  <div class="container">
+    <div class="container-fluid">
+
+      <%= yield %>
+
+    </div>
+  </div>
+
+
   </body>
 </html>
